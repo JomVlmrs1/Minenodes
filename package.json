@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.7.8",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  },
+  "name": "minenodes",
+  "version": "1.0.0",
+  "description": "MineNode is a high-performance server platform for both Minecraft: Java Edition and Minecraft Bedrock Edition. Built using Node.js and Rust, it focuses on scalability, performance, and easy plugin customization with JavaScript. The project is open-source and invites community contributions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
